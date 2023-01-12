@@ -12,7 +12,7 @@ using System.Text.Json;
 using System.Text.Json.Nodes;
 
 class Program
-    {
+{
     public static async Task Main()
     {
         HttpClient client = new HttpClient();
